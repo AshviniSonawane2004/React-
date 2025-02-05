@@ -5,7 +5,7 @@ function App() {
   return (
     <>
     <chai/>
-   <h1>Hello React Series</h1>
+   <h1>Hello React Series whats new</h1>
    </>
   );
 }
